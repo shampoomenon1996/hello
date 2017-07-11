@@ -1,6 +1,6 @@
 def greet() :
  print("hello there")
-
-greet()
+if __name__ == "_main_" : 
+ greet()
 
 
