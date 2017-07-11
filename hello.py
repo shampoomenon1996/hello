@@ -1,2 +1,6 @@
-print("hello there")
+def greet() :
+ print("hello there")
+
+greet()
+
 
